@@ -45,5 +45,5 @@ jobs:
           context: ./mon-app-react
           push: true
           tags: |
-            eloratz/mon-app-react:latest       
-            eloratz/mon-app-react:${{ github.sha }}
+            eloratzz/mon-app-react:latest       
+            eloratzz/mon-app-react:${{ github.sha }}
